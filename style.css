@@ -77,7 +77,7 @@ body{
 }
 .main-p{
     margin-top: 1.5em;
-    color: hsl(300deg 24% 96% / 74%);
+    color: var(--Light-Grayish-Magenta);
 }
 p{
     font-size: 0.87rem;
@@ -121,9 +121,6 @@ p{
     .image-text-3{
         position: relative;
         top: 1em;
-    }
-    .text-container h1{
-        margin-right: 2em;
     }
     .header-p{
         font-size: 0.93rem;
