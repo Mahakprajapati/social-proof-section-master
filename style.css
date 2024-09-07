@@ -21,6 +21,7 @@ body{
 }
 .important-container{
     font-family: 'League Spartan',sans-serif;
+    height:100vh;
 }
 .text-container{
     color: var(--Very-Dark-Magenta);
@@ -88,7 +89,6 @@ p{
     
     .important-container{
         max-width: 900px;
-        height: 100vh;
     }
     header{
         display: grid;
